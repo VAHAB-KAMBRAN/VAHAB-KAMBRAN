@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vahab-kambran" alt="vahab-kambran" /></a> </p>
 
-- 🔭 I’m currently working on **FIR system on Blockchain**
+- 🔭 I’m currently working on **Restaurant sales forecasting project using XGboost model**
 
 - 🌱 I’m currently learning **c++,HTML,CSS and Blockchain**
 
